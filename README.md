@@ -2,22 +2,23 @@ Hi there 👋
 
 # Hi 👋, I'm Siddhartha Majumder
 
-A passionate Software Engineer
+A Aspiring Software Engineer
 
-[![Repos Badge](https://badges.pufler.dev/repos/yourusername)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/yourusername)](https://badges.pufler.dev)
-[![Followers Badge](https://img.shields.io/github/followers/yourusername?label=Followers)](https://github.com/yourusername)
-[![Experience](https://img.shields.io/badge/experience-newbie-yellow)](yourgithubprofilelink)
-[![Stars](https://img.shields.io/badge/stars-unknown-lightgrey)](yourgithubprofilelink)
-[![PullRequests](https://img.shields.io/badge/pullrequests-unknown-lightgrey)](yourgithubprofilelink)
-[![Reviews](https://img.shields.io/badge/reviews-unknown-lightgrey)](yourgithubprofilelink)
+[![Repos Badge](https://badges.pufler.dev/repos/Sid200402)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/Sid200402)](https://badges.pufler.dev)
+[![Followers Badge](https://img.shields.io/github/followers/Sid200402?label=Followers)](https://github.com/Sid200402)
+[![Experience](https://img.shields.io/badge/experience-newbie-yellow)](https://github.com/Sid200402)
+[![Stars](https://img.shields.io/badge/stars-unknown-lightgrey)](https://github.com/Sid200402)
+[![PullRequests](https://img.shields.io/badge/pullrequests-unknown-lightgrey)](https://github.com/Sid200402)
+[![Reviews](https://img.shields.io/badge/reviews-unknown-lightgrey)](https://github.com/Sid200402)
+
 
 - ⚒️ I'm currently working on **Project Name**
-- 🌱 I'm currently learning **Technology (e.g., Spring Boot)**
+- 🌱 I'm currently learning Technology  Spring Boot
 - 🔗 All of my projects are available at [Portfolio](yourportfoliolink)
-- 🗣️ Ask me about **Java, JavaScript**
-- 📫 How to reach me **your_email@example.com**
-- 📝 Know about my experiences [Google Doc](https://docs.google.com)
+- 🗣️ Ask me about Java
+- 📫 How to reach me siddhartha191122@gmail.com
+- 📝 Know about my experiences [Resume](https://docs.google.com)
 
 ### Connect with me:
 [![Twitter](https://img.shields.io/twitter/follow/yourusername)](https://twitter.com/yourusername)
