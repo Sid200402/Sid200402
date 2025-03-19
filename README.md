@@ -1,6 +1,6 @@
-Hi there 👋
 
-# Hi 👋, I'm Siddhartha Majumder
+
+# Hi 👋 I'm Siddhartha Majumder
 
 A Aspiring Software Engineer
 
@@ -13,57 +13,89 @@ A Aspiring Software Engineer
 [![Reviews](https://img.shields.io/badge/reviews-unknown-lightgrey)](https://github.com/Sid200402)
 
 
-- ⚒️ I'm currently working on **Project Name**
+- 🏢 **Currently working at** [WebAppsSoft](https://webappssoft.com/)  
 - 🌱 I'm currently learning Technology  Spring Boot
-- 🔗 All of my projects are available at [Portfolio](yourportfoliolink)
-- 🗣️ Ask me about Java
 - 📫 How to reach me siddhartha191122@gmail.com
 - 📝 Know about my experiences [Resume](https://docs.google.com)
 
-### Connect with me:
-<p align="left">
-<a href="https://dev.to/Siddhartha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Siddhartha" height="30" width="40" /></a>
-<a href="https://twitter.com/Siddhartha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Siddhartha" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Siddhartha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Siddhartha" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/Siddhartha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
-<a href="https://instagram.com/Siddhartha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Siddhartha" height="30" width="40" /></a>
+## 🚀 Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,mysql,js,nestjs,typeorm,git,github,postman" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sid200402&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sid200402&theme=radical&hide_border=true" width="48%" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sid200402&layout=compact&theme=radical&hide_border=true" width="48%" alt="Most Used Languages"/>
+</p>
 
 
-<details>
-  <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
-  <br/>
-  <p align="left">
-    <a href="https://www.java.com" target="_blank"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-    </a> 
-    <a href="https://spring.io/projects/spring-boot" target="_blank"> 
-      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="springboot" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.mysql.com/" target="_blank"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-    </a>
-    <a href="https://hibernate.org/" target="_blank">
-      <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="hibernate" width="40" height="40"/> 
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/> 
-    </a> 
-    <a href="https://reactjs.org/" target="_blank"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-    </a> 
-    <a href="https://sass-lang.com" target="_blank"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-    </a>
-  </p>
-</details>
+## 🚀 Featured Projects  
+
+<table align="center">
+  <tr>
+    <th>🚀 Project Name</th>
+    <th>⚒ Tech Stack</th>
+    <th>🔗 Live Demo</th>
+    <th>📂 Repo</th>
+  </tr>
+  <tr>
+    <td><b>Movie A-Z</b></td>
+    <td>React, TMDb API, JavaScript</td>
+    <td><a href="https://movie-a-z.vercel.app/">🌐 Live</a></td>
+    <td><a href="https://github.com/Sid200402/movieA_Z">📂 Repo</a></td>
+  </tr>
+  <tr>
+    <td><b>QR Code Generator</b></td>
+    <td>JavaScript, HTML, CSS</td>
+    <td><a href="#">🌐 Live</a></td>
+    <td><a href="https://github.com/Sid200402/QR_code_Generator">📂 Repo</a></td>
+  </tr>
+</table>
+
+
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://linkedin.com/in/Siddhartha" target="_blank" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px"/>
+  </a>
+  <a href="https://twitter.com/Siddhartha" target="_blank" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40px"/>
+  </a>
+  <a href="https://stackoverflow.com/users/Siddhartha" target="_blank" style="margin: 0 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" width="40px"/>
+  </a>
+  <a href="https://dev.to/Siddhartha" target="_blank" style="margin: 0 10px;">
+    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" width="40px"/>
+  </a>
+</p>
+
+
+
+## 🎵 What I’m Listening To  
+![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31kddq562obttiavkttuprpplbxy&cover_image=true&theme=default&bar_color_cover=true)
 
 
 
 
-<!---
-Sid200402/Sid200402 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 💡 Fun Fact  
+```java
+while (alive) {
+    code();
+    eat();
+    sleep();
+    repeat();
+}
+
+
