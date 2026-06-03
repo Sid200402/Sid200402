@@ -39,7 +39,7 @@
 <img align="right" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sid200402&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=a5b4fc&langs_count=8"/>
 
 🏢 &nbsp;**Company** → **WASS™** (WebAppsSoft) — IT Consulting & Dev Agency
-🤓 &nbsp;**Experience** → **1+ Year** of professional engineering
+🤓 &nbsp;**Experience** →**1+ Year** of professional engineering
 🍃 &nbsp;**Backend** → Spring Boot · Spring MVC · Spring Security · Java
 ⚡ &nbsp;**Other Stack** → NestJS · TypeScript · React · MySQL
 🏗️ &nbsp;**Products Built** → ERP · POS · eCommerce · EdTech Platforms
@@ -47,7 +47,6 @@
 🧮 &nbsp;**Practising** → DSA in Java · Microservices · System Design
 📍 &nbsp;**Location** → India
 📫 &nbsp;**Email** → siddhartha191122@gmail.com
-📄 &nbsp;**Resume** → [Click to View](https://docs.google.com)
 
 <br clear="right"/>
 
