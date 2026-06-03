@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=00F5FF&center=true&vCenter=true&width=750&lines=🚀+Software+Engineer+%40+WASS™+(WebAppsSoft);☕+Spring+Boot+%7C+Java+%7C+NestJS+%7C+TypeScript;🏭+ERP+%7C+POS+%7C+eCommerce+%7C+EdTech+Builder;🎓+SWC+Education+App+—+500%2B+Play+Store+Downloads;💡+Turning+Coffee+into+Production-Ready+Code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=00F5FF&center=true&vCenter=true&width=750&lines=Software+Engineer+%40+WASS+%28WebAppsSoft%29;Spring+Boot+%7C+Java+%7C+NestJS+%7C+TypeScript;ERP+%7C+POS+%7C+eCommerce+%7C+EdTech+Builder;SWC+Education+App+on+Play+Store+500%2B+Downloads;Turning+Coffee+into+Production-Ready+Code" alt="Typing SVG" />
 
 </div>
 
@@ -315,6 +315,7 @@ Browse & discover movies via TMDb API — filter by genre, rating & year.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Siddhartha)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sid200402)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddhartha191122@gmail.com)
+[![Play Store](https://img.shields.io/badge/SWC%20App-Play%20Store-00e676?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.swc_application&hl=en_IN)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Siddhartha)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/Siddhartha)
 
