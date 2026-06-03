@@ -39,7 +39,7 @@
 <img align="right" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sid200402&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=a5b4fc&langs_count=8"/>
 
 🏢 &nbsp;**Company** → **WASS™** (WebAppsSoft) — IT Consulting & Dev Agency
-💼 &nbsp;**Experience** → **1+ Year** of professional engineering
+🤓 &nbsp;**Experience** → **1+ Year** of professional engineering
 🍃 &nbsp;**Backend** → Spring Boot · Spring MVC · Spring Security · Java
 ⚡ &nbsp;**Other Stack** → NestJS · TypeScript · React · MySQL
 🏗️ &nbsp;**Products Built** → ERP · POS · eCommerce · EdTech Platforms
@@ -315,7 +315,6 @@ Browse & discover movies via TMDb API — filter by genre, rating & year.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Siddhartha)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sid200402)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddhartha191122@gmail.com)
-[![Play Store](https://img.shields.io/badge/SWC%20App-Play%20Store-00e676?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.swc_application&hl=en_IN)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Siddhartha)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/Siddhartha)
 
