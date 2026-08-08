@@ -1,284 +1,139 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,60:24243e,100:6366f1&height=220&section=header&text=Siddhartha%20Majumder&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=✦%20Software%20Engineer%20%7C%201%2B%20Year%20Experience%20✦&descAlignY=62&descSize=17&animation=fadeIn&stroke=6366f1&strokeWidth=2"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,60:24243e,100:6366f1&height=220&section=header&text=Siddhartha%20Majumder&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Java%20%7C%20Spring%20Boot%20%7C%20Full-Stack%20Engineer&descAlignY=62&animation=fadeIn" width="100%"/>
 
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=00F5FF&center=true&vCenter=true&width=750&lines=Software+Engineer+%40+WASS+%28WebAppsSoft%29;Spring+Boot+%7C+Java+%7C+NestJS+%7C+TypeScript;ERP+%7C+POS+%7C+eCommerce+%7C+EdTech+Builder;SWC+Education+App+on+Play+Store+500%2B+Downloads;Turning+Coffee+into+Production-Ready+Code" alt="Typing SVG" />
-
-</div>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=Software+Engineer+%40+WASS%E2%84%A2+(WebAppsSoft);Building+ERP+%2F+POS+%2F+eCommerce+%2F+EdTech+platforms;Spring+Boot+%7C+NestJS+%7C+React+%7C+MySQL;Shipping+production+code+since+2023" alt="Typing SVG" />
 
 <br/>
 
-<div align="center">
-
-![Experience](https://img.shields.io/badge/💼%20Experience-1%2B%20Year-blueviolet?style=for-the-badge&labelColor=0d1117)
-![Company](https://img.shields.io/badge/🏢%20WASS™-Software%20Engineer-00d4ff?style=for-the-badge&labelColor=0d1117)
-![Role](https://img.shields.io/badge/👨‍💻%20Role-Backend%20%2B%20Fullstack-ff6b9d?style=for-the-badge&labelColor=0d1117)
-![Open](https://img.shields.io/badge/🟢%20Status-Open%20to%20Work-00e676?style=for-the-badge&labelColor=0d1117)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Sid200402)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Siddhartha)
+[![Gmail](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddhartha191122@gmail.com)
+[![Play Store](https://img.shields.io/badge/SWC%20App-Live%20on%20Play%20Store-00d4ff?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.swc_application&hl=en_IN)
 
 </div>
 
-<div align="center">
+---
 
-[![Repos](https://badges.pufler.dev/repos/Sid200402?style=for-the-badge&color=blueviolet&labelColor=0d1117&label=📦%20Repos)](https://github.com/Sid200402)
-[![Commits](https://badges.pufler.dev/commits/monthly/Sid200402?style=for-the-badge&color=00d4ff&labelColor=0d1117&label=🔥%20Monthly%20Commits)](https://github.com/Sid200402)
-[![Followers](https://img.shields.io/github/followers/Sid200402?label=👥%20Followers&style=for-the-badge&color=ff6b9d&labelColor=0d1117)](https://github.com/Sid200402)
-[![Views](https://komarev.com/ghpvc/?username=Sid200402&color=blueviolet&style=for-the-badge&label=👁%20Profile%20Views)](https://github.com/Sid200402)
+## 👋 About Me
 
-</div>
+I'm a **Java / Spring Boot engineer** at **WASS™ (WebAppsSoft)**, an IT consulting & dev agency, where I design and ship enterprise-grade backend systems end-to-end — from database schema to REST API to frontend integration.
 
+```yaml
+role:        Software Engineer @ WASS™ (WebAppsSoft)
+experience:  1+ year professional
+focus:       Backend systems, REST APIs, relational DB design
+stack:       Spring Boot · Spring Security · NestJS · React · MySQL
+shipped:     ERP · POS · eCommerce · EdTech (500+ downloads on Play Store)
+learning:    Advanced DSA · Microservices · System Design
+location:    India
+```
+
+---
+
+<details open>
+<summary><b>💼 Work Experience</b></summary>
 <br/>
 
----
+**Software Engineer — WASS™ (WebAppsSoft)** · *2023 – Present*
+> Building enterprise software products end-to-end.
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/> &nbsp; About Me
+- 🏭 Designed & shipped an **ERP System** — HR, Payroll, Inventory, Procurement modules
+- 🛒 Built a **POS (Point of Sale)** system — billing, GST, inventory tracking, sales analytics
+- 🛍️ Developed an **eCommerce platform** — catalog, cart, checkout, payments, admin panel
+- 🎓 Contributed to the **SWC EdTech app** — live on Play Store, 500+ downloads
+- ⚙️ Architected **RESTful APIs** consumed by web & mobile clients
+- 🔐 Implemented **JWT auth + Spring Security** across multiple products
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sid200402&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=a5b4fc&langs_count=8"/>
+`Spring Boot` `Java` `NestJS` `TypeScript` `MySQL` `JPA` `REST` `JWT`
 
-🏢 &nbsp;**Company** → **WASS™** (WebAppsSoft) — IT Consulting & Dev Agency
-🤓 &nbsp;**Experience** →**1+ Year** of professional engineering
-🍃 &nbsp;**Backend** → Spring Boot · Spring MVC · Spring Security · Java
-⚡ &nbsp;**Other Stack** → NestJS · TypeScript · React · MySQL
-🏗️ &nbsp;**Products Built** → ERP · POS · eCommerce · EdTech Platforms
-📱 &nbsp;**Published** → SWC App on Play Store — 500+ downloads
-🧮 &nbsp;**Practising** → DSA in Java · Microservices · System Design
-📍 &nbsp;**Location** → India
-📫 &nbsp;**Email** → siddhartha191122@gmail.com
+**Software Engineering Intern — WASS™ (WebAppsSoft)** · *2023*
+> Joined as an intern, took ownership of production features, grew into full-time.
 
-<br clear="right"/>
+- ⚡ Built & tested **CRUD REST APIs** for core business modules
+- 🗄️ Designed **database schemas** for inventory & billing features
+- 🔧 Participated in **agile sprints** and code reviews
+- 📦 Integrated **third-party services** and payment gateways
 
----
+`Java` `Spring Boot` `MySQL` `JavaScript` `Git`
 
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="28"/> &nbsp; Work Experience
-
-<br/>
-
-<table width="100%">
-<tr>
-<td>
-
-<img src="https://img.shields.io/badge/CURRENT%20ROLE-%E2%96%BA%20Software%20Engineer-blueviolet?style=for-the-badge&labelColor=0d1117"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/2023%20–%20Present-1%2B%20Year-00d4ff?style=flat-square&labelColor=0d1117"/>
-&nbsp;
-<img src="https://img.shields.io/badge/WASS™-Full--Time-ff6b9d?style=flat-square&labelColor=0d1117"/>
-
-**Software Engineer @ WASS™ (WebAppsSoft)**
-
-> Building enterprise software products end-to-end — from database design to REST API development to frontend integration.
-
-🏭 &nbsp;Designed & shipped **ERP System** — HR · Payroll · Inventory · Procurement modules
-🛒 &nbsp;Built **POS (Point of Sale)** — billing, GST, inventory tracking & sales analytics
-🛍️ &nbsp;Developed **eCommerce platform** — catalog, cart, checkout, payments & admin panel
-🎓 &nbsp;Contributed to **SWC EdTech app** — live on Play Store with 500+ downloads
-⚙️ &nbsp;Architected **RESTful APIs** consumed by web & mobile clients
-🗄️ &nbsp;Engineered **relational DB schemas** for complex business workflows
-🔐 &nbsp;Implemented **JWT Auth & Spring Security** across multiple products
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-22c55e?style=flat-square&logo=springboot&logoColor=white)
-![Java](https://img.shields.io/badge/Java-f59e0b?style=flat-square&logo=openjdk&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-e11d48?style=flat-square&logo=nestjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3b82f6?style=flat-square&logo=typescript&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758f?style=flat-square&logo=mysql&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA%2FHibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![REST](https://img.shields.io/badge/REST_APIs-6366f1?style=flat-square)
-![JWT](https://img.shields.io/badge/JWT_Auth-10b981?style=flat-square)
-
-</td>
-</tr>
-<tr><td><br/></td></tr>
-<tr>
-<td>
-
-<img src="https://img.shields.io/badge/PREV%20ROLE-%E2%96%BA%20Intern-00d4ff?style=for-the-badge&labelColor=0d1117"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/2023-6%20Months-blueviolet?style=flat-square&labelColor=0d1117"/>
-&nbsp;
-<img src="https://img.shields.io/badge/WASS™-Internship-ff6b9d?style=flat-square&labelColor=0d1117"/>
-
-**Software Engineering Intern @ WASS™ (WebAppsSoft)**
-
-> Joined as intern, quickly took ownership of production features and grew into a full-time role.
-
-⚡ &nbsp;Built & tested **CRUD REST APIs** for core business modules
-🗄️ &nbsp;Designed **database schemas** for inventory & billing features
-🔧 &nbsp;Participated in **agile sprints** and code reviews with senior engineers
-📦 &nbsp;Integrated **third-party services** and payment gateways
-
-![Java](https://img.shields.io/badge/Java-f59e0b?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-22c55e?style=flat-square&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758f?style=flat-square&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-facc15?style=flat-square&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-f97316?style=flat-square&logo=git&logoColor=white)
-
-</td>
-</tr>
-</table>
+</details>
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"/> &nbsp; Tech Stack
-
-<div align="center">
-
-### ☕ Languages
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🍃 Backend & Frameworks
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot)
-![Spring MVC](https://img.shields.io/badge/Spring_MVC-%236DB33F.svg?style=for-the-badge&logo=spring)
-![Spring Security](https://img.shields.io/badge/Spring_Security-%236DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-### 🗄️ Databases & ORM
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![TypeORM](https://img.shields.io/badge/TypeORM-FE0803.svg?style=for-the-badge&logo=typeorm)
-![JPA](https://img.shields.io/badge/JPA-6366f1?style=for-the-badge&logo=java&logoColor=white)
-
-### 🛠️ Tools & IDE
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### 🧠 Core Concepts
-![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-blueviolet?style=for-the-badge)
-![OOP](https://img.shields.io/badge/Object_Oriented_Programming-ff6b9d?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST_API_Design-00d4ff?style=for-the-badge)
-![Microservices](https://img.shields.io/badge/Microservices-f59e0b?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT_Authentication-10b981?style=for-the-badge)
-![MVC](https://img.shields.io/badge/MVC_Architecture-e11d48?style=for-the-badge)
-
-</div>
-
----
-
-## 🏗️ Featured Projects
-
-<div align="center">
-
-### 🌟 Enterprise & Professional Work
-
-</div>
+## 🛠️ Tech Stack
 
 <table>
 <tr>
-<td width="50%">
+<td valign="top" width="50%">
 
-#### 🎓 SWC Education Platform
-![EdTech](https://img.shields.io/badge/EdTech-Mobile%20App-00d4ff?style=flat-square&labelColor=0d1117)
-![Downloads](https://img.shields.io/badge/📲%20500%2B-Downloads-00e676?style=flat-square&labelColor=0d1117)
+**Languages**
 
-All-in-one competitive exam prep app — video lectures, PDF books, mock tests & real-time learning analytics.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-`Android` `Video Lectures` `PDF Books` `Mock Tests` `Analytics`
+**Backend & Frameworks**
 
-[![Play Store](https://img.shields.io/badge/▶%20Play%20Store-00e676?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.swc_application&hl=en_IN)
-[![Website](https://img.shields.io/badge/🌐%20Website-00d4ff?style=for-the-badge)](https://swcapp.in)
-
-</td>
-<td width="50%">
-
-#### 🏭 ERP System
-![Enterprise](https://img.shields.io/badge/Enterprise-Grade-blueviolet?style=flat-square&labelColor=0d1117)
-![Backend](https://img.shields.io/badge/Spring%20Boot-Backend-22c55e?style=flat-square&labelColor=0d1117)
-
-Full ERP covering HR, payroll, inventory, procurement & business reporting with REST API architecture.
-
-`Spring Boot` `Java` `MySQL` `JPA` `Hibernate` `REST APIs`
-
-[![WASS™](https://img.shields.io/badge/🏢%20WASS™-Production-blueviolet?style=for-the-badge)](https://github.com/Sid200402)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot)
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square&logo=spring)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td valign="top" width="50%">
 
-#### 🛒 POS — Point of Sale
-![Enterprise](https://img.shields.io/badge/Enterprise-Grade-blueviolet?style=flat-square&labelColor=0d1117)
-![Billing](https://img.shields.io/badge/GST-Billing-f59e0b?style=flat-square&labelColor=0d1117)
+**Databases & ORM**
 
-Complete POS solution — billing, GST/tax, inventory tracking, customer management & sales analytics.
+![MySQL](https://img.shields.io/badge/MySQL-00f?style=flat-square&logo=mysql&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm)
+![JPA](https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=java&logoColor=white)
 
-`Spring Boot` `Java` `MySQL` `GST` `Billing` `Inventory`
+**Tools & IDE**
 
-[![WASS™](https://img.shields.io/badge/🏢%20WASS™-Production-blueviolet?style=for-the-badge)](https://github.com/Sid200402)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 
-</td>
-<td width="50%">
+**Core Concepts**
 
-#### 🛍️ eCommerce Platform
-![Fullstack](https://img.shields.io/badge/Full-Stack-ff6b9d?style=flat-square&labelColor=0d1117)
-![Payments](https://img.shields.io/badge/Payment-Gateway-f59e0b?style=flat-square&labelColor=0d1117)
-
-Scalable store — product catalog, cart, checkout, order management, payments & admin dashboard.
-
-`Spring Boot` `NestJS` `React` `MySQL` `TypeScript` `REST`
-
-[![WASS™](https://img.shields.io/badge/🏢%20WASS™-Production-blueviolet?style=for-the-badge)](https://github.com/Sid200402)
+![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-blueviolet?style=flat-square)
+![Microservices](https://img.shields.io/badge/Microservices-f59e0b?style=flat-square)
+![REST API](https://img.shields.io/badge/REST_API_Design-00d4ff?style=flat-square)
 
 </td>
 </tr>
 </table>
 
-<div align="center">
+---
 
-### 💻 Personal & Open Source Projects
+## 🏗️ Featured Work — Portfolio
 
-</div>
+### Enterprise & Professional
 
-<table>
-<tr>
-<td width="33%">
+| Project | Type | Description | Stack |
+|---|---|---|---|
+| 🏭 **ERP System** | Enterprise | HR, payroll, inventory & procurement with full REST API architecture | `Spring Boot` `Java` `MySQL` `JPA` `Hibernate` |
+| 🛒 **POS — Point of Sale** | Enterprise | Billing, GST/tax, inventory tracking, customer mgmt & sales analytics | `Spring Boot` `Java` `MySQL` `GST` |
+| 🛍️ **eCommerce Platform** | Fullstack | Catalog, cart, checkout, order mgmt, payments & admin dashboard | `Spring Boot` `NestJS` `React` `MySQL` `TypeScript` |
+| 🎓 **SWC Education Platform** | EdTech (Android) | Exam prep app — video lectures, PDF books, mock tests, analytics · **500+ downloads** | [Play Store](https://play.google.com/store/apps/details?id=com.swc_application&hl=en_IN) · [Website](https://swcapp.in) |
 
-#### 🧮 DSA in Java
-![Algo](https://img.shields.io/badge/Algorithms-Java-blueviolet?style=flat-square&labelColor=0d1117)
+### Personal & Open Source
 
-Arrays, linked lists, trees, graphs, DP, sorting, searching & competitive programming.
-
-`Java` `DSA` `OOP` `LeetCode`
-
-[![Repo](https://img.shields.io/badge/📂%20GitHub-Repo-blueviolet?style=for-the-badge&logo=github)](https://github.com/Sid200402)
-
-</td>
-<td width="33%">
-
-#### 🍃 Spring Boot APIs
-![Backend](https://img.shields.io/badge/Backend-Projects-22c55e?style=flat-square&labelColor=0d1117)
-
-REST APIs, JWT auth, Spring Security, pagination & DB integration pattern projects.
-
-`Spring Boot` `JWT` `Security` `Hibernate`
-
-[![Repo](https://img.shields.io/badge/📂%20GitHub-Repo-22c55e?style=for-the-badge&logo=github)](https://github.com/Sid200402)
-
-</td>
-<td width="33%">
-
-#### 🎬 Movie A-Z
-![WebApp](https://img.shields.io/badge/Web-App-00d4ff?style=flat-square&labelColor=0d1117)
-
-Browse & discover movies via TMDb API — filter by genre, rating & year.
-
-`React` `TMDb API` `JavaScript`
-
-[![Live](https://img.shields.io/badge/🌐%20Live-Demo-e11d48?style=for-the-badge)](https://movie-a-z.vercel.app/)
-[![Repo](https://img.shields.io/badge/📂%20Repo-gray?style=for-the-badge&logo=github)](https://github.com/Sid200402/movieA_Z)
-
-</td>
-</tr>
-</table>
+| Project | Type | Description | Links |
+|---|---|---|---|
+| 🎬 **Movie A-Z** | WebApp | Browse & discover movies via the TMDb API — filter by genre, rating, year | [Live](https://movie-a-z.vercel.app/) · [Repo](https://github.com/Sid200402/movieA_Z) |
+| 🧮 **DSA in Java** | Algorithms | Arrays, linked lists, trees, graphs, DP, sorting & searching practice | [Repo](https://github.com/Sid200402) |
+| 🍃 **Spring Boot APIs** | Backend | REST APIs, JWT auth, Spring Security, pagination & DB integration patterns | [Repo](https://github.com/Sid200402) |
+| 📷 **QR Code Generator** | Java | QR code generator & scanner utility | [Repo](https://github.com/Sid200402/QR_code_Generator) |
+| ✍️ **Blogging API v1** | Java | REST API backend for a blogging platform | [Repo](https://github.com/Sid200402/Blogging_Api_V1) |
+| 🎨 **SkinGenie** | CSS/Web | Frontend web project | [Repo](https://github.com/Sid200402/SKINGENIE) |
 
 ---
 
@@ -286,12 +141,12 @@ Browse & discover movies via TMDb API — filter by genre, rating & year.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sid200402&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=00d4ff&text_color=a5b4fc&include_all_commits=true&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sid200402&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=ff6b9d&currStreakLabel=00d4ff&sideLabels=a5b4fc&dates=6b7280" width="49%"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sid200402&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=00d4ff&text_color=a5b4fc&include_all_commits=true&count_private=true"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Sid200402&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=ff6b9d&currStreakLabel=00d4ff&sideLabels=a5b4fc"/>
 
-<br/><br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sid200402&bg_color=0d1117&color=6366f1&line=8b5cf6&point=00d4ff&area=true&area_color=6366f1&hide_border=true&custom_title=Siddhartha's%20Contribution%20Graph" width="95%"/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sid200402&bg_color=0d1117&color=6366f1&line=8b5cf6&point=00d4ff&area=true&area_color=6366f1&hide_border=true&custom_title=Siddhartha's%20Contribution%20Graph)](https://github.com/Sid200402)
+<img src="https://github-profile-trophy.vercel.app/?username=Sid200402&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="95%"/>
 
 </div>
 
@@ -300,9 +155,7 @@ Browse & discover movies via TMDb API — filter by genre, rating & year.
 ## 🎵 Now Playing
 
 <div align="center">
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31kddq562obttiavkttuprpplbxy&cover_image=true&theme=natemoo-re&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31kddq562obttiavkttuprpplbxy&redirect=true)
-
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31kddq562obttiavkttuprpplbxy&cover_image=true&theme=natemoo-re&bar_color_cover=true" />
 </div>
 
 ---
@@ -311,18 +164,12 @@ Browse & discover movies via TMDb API — filter by genre, rating & year.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Siddhartha)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sid200402)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Siddhartha)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sid200402)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddhartha191122@gmail.com)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Siddhartha)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Siddhartha)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/Siddhartha)
 
 </div>
 
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,40:8b5cf6,70:ff6b9d,100:00d4ff&height=130&section=footer&text=Thanks%20for%20visiting!%20✨&fontSize=26&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,40:8b5cf6,70:ff6b9d,100:00d4ff&height=130&section=footer&text=Thanks%20for%20visiting!%20🚀&fontSize=26&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
